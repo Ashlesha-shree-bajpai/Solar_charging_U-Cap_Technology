@@ -45,7 +45,7 @@ Bridging Solar Intermittency: Store excess energy during peak sunlight for use d
 
 Peak Power Handling: Smooth out sudden demand surges, protecting both the solar PV system and the electrical grid.
 
-Improved Grid Stability: Stabilize fluctuations caused by solar power variability.
+Improved Grid Stability: Stabilize fluctuations caused by solar power variability
 
 Battery Health Preservation: Offer rapid energy transfer without the degradation effects seen in direct DC fast charging.
 
